@@ -1,0 +1,21 @@
+.blog{
+    background-color: tomato;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.personal{
+    text-align: center;
+    border-radius: 10px;
+
+}
+#self{
+    border-radius: 120px;
+    border: solid rgb(51, 51, 51);
+    width: 20%;
+}
+.col{
+    width: 50%;
+    display: inline-block;
+    
+}
