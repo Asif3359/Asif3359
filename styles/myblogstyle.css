@@ -91,4 +91,8 @@
     background-color:rgb(255, 135, 114);
     border-radius: 7px;
   }
+  .email{
+    float: right;
+    text-align: right;
+  }
 
