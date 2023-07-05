@@ -41,3 +41,10 @@
     padding: 10px;
     border-left: 13px dotted;
 }
+.fourth{ 
+    box-shadow: 10px 10px 5px 5px  rgb(59, 59, 59) ;
+    margin: 30px;
+    padding: 10px;
+    border-right: 13px dotted;
+    text-align: right;
+}
