@@ -3,17 +3,22 @@
      margin: 15px;
     /*padding: 10px; */
     border-radius: 10px;
+    
 }
+
 .personal{
     text-align: center;
     border-radius: 10px;
     
 }
+
 .aboutmy{
-    padding: 12px;
-    background-color: rgb(255, 187, 187);
+    /* padding: 12px; */
+    /* background-color: rgb(255, 187, 187); */
     border-radius: 10px;
+    text-align: left;
 }
+
 #self{
     border-radius: 120px;
     border: solid rgb(51, 51, 51);
@@ -21,30 +26,91 @@
 }
 
 .first{
-    box-shadow: 10px 10px 5px 5px rgb(59, 59, 59);
-    margin: 30px;
+    /* box-shadow: 10px 10px 5px 5px rgb(59, 59, 59); */
+    margin: 15px;
     padding: 10px;
-    border-left: 13px dotted;
+    margin-top: 0px;
+    /* border-left: 13px dotted; */
+    /* text-decoration: none; */
 }
+
 .second{
     box-shadow: 10px 10px 5px 5px  rgb(59, 59, 59) ;
-    margin: 30px;
+    margin: 15px;
     padding: 10px;
     border-right: 13px dotted;
     text-align: right;
     
 
 }
+
 .third{ 
     box-shadow: 10px 10px 5px 5px rgb(59, 59, 59);
-    margin: 30px;
+    margin: 15px;
     padding: 10px;
     border-left: 13px dotted;
 }
+
 .fourth{ 
     box-shadow: 10px 10px 5px 5px  rgb(59, 59, 59) ;
-    margin: 30px;
+    margin: 15px;
     padding: 10px;
     border-right: 13px dotted;
     text-align: right;
 }
+
+/* .nav{
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+  
+}
+
+.link{
+    text-decoration: none;
+    text-align: center;
+    padding: 12px;
+    
+} */
+
+.nav{
+    float: left;
+}
+
+
+.navul{
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: rgb(255, 163, 146);
+    border-radius: 10px;
+}
+
+.nav,.link{
+   
+    text-decoration: none;
+    display:inline-block;
+    text-decoration: none;
+    text-align: center;
+    
+}
+.link{
+    padding: 20px;
+    font-size: 18px;
+}
+
+/* ul li a:hover :not(.id1){
+    
+  } */
+
+  ul li a:hover {
+    background-color:rgb(255, 135, 114);
+    color: aliceblue;
+    border-radius: 7px;
+  }
+  .active{
+    background-color:rgb(255, 135, 114);
+    border-radius: 7px;
+  }
+
