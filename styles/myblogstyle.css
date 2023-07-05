@@ -1,7 +1,6 @@
 .blog{
     background-color: tomato;
      margin: 15px;
-    /*padding: 10px; */
     border-radius: 10px;
     
 }
@@ -13,8 +12,6 @@
 }
 
 .aboutmy{
-    /* padding: 12px; */
-    /* background-color: rgb(255, 187, 187); */
     border-radius: 10px;
     text-align: left;
 }
@@ -26,12 +23,10 @@
 }
 
 .first{
-    /* box-shadow: 10px 10px 5px 5px rgb(59, 59, 59); */
     margin: 15px;
     padding: 10px;
     margin-top: 0px;
-    /* border-left: 13px dotted; */
-    /* text-decoration: none; */
+
 }
 
 .second{
@@ -58,20 +53,6 @@
     border-right: 13px dotted;
     text-align: right;
 }
-
-/* .nav{
-    display: inline;
-    padding: 10px;
-    text-decoration: none;
-  
-}
-
-.link{
-    text-decoration: none;
-    text-align: center;
-    padding: 12px;
-    
-} */
 
 .nav{
     float: left;
@@ -100,9 +81,6 @@
     font-size: 18px;
 }
 
-/* ul li a:hover :not(.id1){
-    
-  } */
 
   ul li a:hover {
     background-color:rgb(255, 135, 114);
