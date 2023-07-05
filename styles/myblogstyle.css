@@ -66,10 +66,11 @@
     overflow: hidden;
     background-color: rgb(255, 163, 146);
     border-radius: 10px;
+    
 }
 
 .nav,.link{
-   
+    color: rgb(94, 0, 182);
     text-decoration: none;
     display:inline-block;
     text-decoration: none;
