@@ -11,10 +11,10 @@
     
 }
 
-.aboutmy{
+/* .aboutmy{
     border-radius: 10px;
     text-align: left;
-}
+} */
 
 #self{
     border-radius: 120px;
@@ -68,7 +68,7 @@
     overflow: hidden;
     background-color: rgb(255, 162, 146);
     border-radius: 10px;
-    
+    /* display:inline-block; */
 }
 
 .nav,.link{
@@ -99,3 +99,68 @@
     text-align: right;
   }
 
+
+
+@media screen and (max-width: 865px) {
+    .navul{
+        
+        padding: 6px;
+        
+    }
+    .nav,.link{     
+        text-align: center;
+        font-size: 14px;
+        padding:6px;
+        
+    }
+    .blog{
+        
+        font-size: 13px;
+        
+    }
+
+
+  }
+  @media screen and (max-width: 600px) {
+    .navul{
+        
+        padding: 5px;
+        
+    }
+    .nav,.link{     
+        text-align: center;
+        font-size: 11px;
+        padding:5px;
+        
+    }
+    .blog{
+       
+        font-size: 11px;
+        
+    }
+  }
+  @media screen and (max-width: 482px) {
+    .navul{
+        
+        padding: 3px;
+        
+    }
+    .nav,.link{     
+        text-align: center;
+        font-size: 8px;
+        padding:3px;
+        
+    }
+    .blog{
+       
+        font-size: 8px;
+        
+    }
+
+
+  }
+  
+  
+  
+  
+  
