@@ -18,7 +18,7 @@ A highly motivated and detail-oriented Computer Science student at Bangladesh Un
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:asifahammednishst@gmail.com">
-<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" />
+<img src="https://github.com/Asif3359/Asif3359/blob/main/img/image%202.png" />
 </a>
 
 </p>
