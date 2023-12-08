@@ -17,6 +17,9 @@ A highly motivated and detail-oriented Computer Science student at Bangladesh Un
 <a href="https://linkedin.com/in/asif-ahammed-622a85264/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
+<a href="mailto:asifahammednishst@gmail.com">
+<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" />
+</a>
 
 </p>
 
