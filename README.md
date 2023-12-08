@@ -1,9 +1,6 @@
-
-<p align="center">
 <a href="mailto:asifahammednishst@gmail.com">
 <img src="(https://github.com/Asif3359/Asif3359/blob/main/img/Cover-Photo.png" />
 </a>
-</p>
 
 ## I am Asif Ahammed
 
