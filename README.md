@@ -3,8 +3,6 @@
 </a>
 
 ## I am Asif Ahammed
-
-## About Me :
 A highly motivated and detail-oriented Computer Science student at Bangladesh University of Business and Technology (BUBT) with a strong foundation in programming languages including C, C++, and JavaScript. Eager to apply my academic knowledge and programming skills to real-world projects, contributing to innovative solutions and gaining practical experience in the field of Computer Science.
 <br>
 
