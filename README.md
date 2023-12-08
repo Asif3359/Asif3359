@@ -17,7 +17,10 @@ A highly motivated and detail-oriented Computer Science student at Bangladesh Un
 
 <br>
 # 📊GitHub Stats :
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asif3359&theme=dark" />
+
+<p align="center">
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asif3359&theme=dark" />
+</p>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asif3359&theme=dark" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asif3359&theme=dark" />
