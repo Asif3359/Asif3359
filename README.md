@@ -1,5 +1,9 @@
 
-![GitHub Logo](https://github.com/Asif3359/Asif3359/blob/main/img/Cover-Photo.png)
+<p align="center">
+<a href="mailto:asifahammednishst@gmail.com">
+<img src="(https://github.com/Asif3359/Asif3359/blob/main/img/Cover-Photo.png" />
+</a>
+</p>
 
 ## I am Asif Ahammed
 
@@ -14,7 +18,6 @@ A highly motivated and detail-oriented Computer Science student at Bangladesh Un
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-ahammed-622a85264/" />
 </p>
 
-<br>
 # 💻Tech Stack
 <p align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=whitemn" />
@@ -33,7 +36,6 @@ A highly motivated and detail-oriented Computer Science student at Bangladesh Un
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-<br>
 # 📊GitHub Stats :
 
 <p align="center">
@@ -47,8 +49,6 @@ A highly motivated and detail-oriented Computer Science student at Bangladesh Un
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asif3359&theme=dark" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asif3359&theme=dark&utcOffset=8" />
 </p>
-
-<br>
 
 
 
