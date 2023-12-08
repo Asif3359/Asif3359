@@ -1,5 +1,5 @@
 <a href="mailto:asifahammednishst@gmail.com">
-<img src="(https://github.com/Asif3359/Asif3359/blob/main/img/Cover-Photo.png" />
+<img src="https://github.com/Asif3359/Asif3359/blob/main/img/Cover-Photo.png" />
 </a>
 
 ## I am Asif Ahammed
