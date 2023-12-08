@@ -12,10 +12,10 @@ A highly motivated and detail-oriented Computer Science student at Bangladesh Un
 
 <p align="center">
 <a href="https://facebook.com/1nothing90">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](" />
 </a>
 <a href="https://linkedin.com/in/asif-ahammed-622a85264/">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
 
 </p>
