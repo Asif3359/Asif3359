@@ -7,8 +7,13 @@
 A highly motivated and detail-oriented Computer Science student at Bangladesh University of Business and Technology (BUBT) with a strong foundation in programming languages including C, C++, and JavaScript. Eager to apply my academic knowledge and programming skills to real-world projects, contributing to innovative solutions and gaining practical experience in the field of Computer Science.
 <br>
 
-## 🌐Socials
-<p align="center">[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/1nothing90) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-ahammed-622a85264/)<p>
+## 🌐Socials Links
+
+<p align="center">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/1nothing90" />
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-ahammed-622a85264/" />
+</p>
+
 <br>
 # 💻Tech Stack
 <p align="center">
