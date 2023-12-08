@@ -33,10 +33,14 @@ A highly motivated and detail-oriented Computer Science student at Bangladesh Un
 <p align="center">
 <img  src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 <img  src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-<img  src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+## current Learning on
+<p align="center">
+<img  src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
 # 📊GitHub Stats :
@@ -52,6 +56,12 @@ A highly motivated and detail-oriented Computer Science student at Bangladesh Un
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asif3359&theme=dark" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asif3359&theme=dark&utcOffset=8" />
 </p>
+## <li>A junior Web Developer</li>
+## <li></li>
+## <li></li>
+## <li></li>
+## <li></li>
+## <li></li>
 
 
 
