@@ -13,8 +13,11 @@ A highly motivated and detail-oriented Computer Science student at Bangladesh Un
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Asif3359&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asif3359&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asif3359&theme=default)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Asif3359)](https://git.io/streak-stats)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Asif3359/langs)](https://githubtrends.io)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asif3359&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asif3359&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asif3359&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asif3359&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asif3359&theme=default&utcOffset=8)
 
 
 ---
