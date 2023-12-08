@@ -13,6 +13,8 @@ A highly motivated and detail-oriented Computer Science student at Bangladesh Un
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Asif3359&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asif3359&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asif3359&theme=default)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Asif3359&icon=0&color=0)](https://visitcount.itsvg.in)
