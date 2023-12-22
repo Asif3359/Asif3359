@@ -45,6 +45,9 @@ A highly motivated and detail-oriented Computer Science student at Bangladesh Un
 </p>
 
 # 📊GitHub Stats :
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Asif3359&theme=dark" alt="GitHub Streak" /></a>
+</p>
 
 <p align="center">
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asif3359&theme=dark" />
