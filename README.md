@@ -63,8 +63,11 @@ A highly motivated and detail-oriented Computer Science student at Bangladesh Un
 
 ## Overview
 <li>A junior Web Developer</li>
-<li>🔭 I’m currently working on</li>
-<p>My First Native App <a href="https://github.com/Asif3359/My-First-Native-App">Native App</a> & My Protfolio <a href="https://github.com/Asif3359/Asif-Ahammed-Profile">Native App</a> <p>
+<li>🔭 I’m currently working on  EasyMed health care</li>
+<p>EasyMed HealthCare  <a href="https://github.com/Asif3359/EasyMed">EasyMed Health care </a> & My University Academic Project <p>
+<li><h2>Use </h2> </li>
+<li>Database: MySQL </li>
+<li>Language: Java, JavaFX </li>
 
 <li>Fun Fact</li>
 <p>"Laziness is the mother of all bad habits, but ultimately she is a mother and we should respect her "</p>
