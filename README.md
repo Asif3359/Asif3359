@@ -61,11 +61,10 @@ A highly motivated and detail-oriented Computer Science student at Bangladesh Un
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asif3359&theme=dark&utcOffset=8" />
 </p>
 
-## Overview
-<li>A junior Web Developer</li>
+## Current Project
 <li>🔭 I’m currently working on  EasyMed health care</li>
 <p>EasyMed HealthCare  <a href="https://github.com/Asif3359/EasyMed">EasyMed Health care </a> & My University Academic Project <p>
-<li><h2>Use </h2> </li>
+<li>Use</li>
 <li>Database: MySQL </li>
 <li>Language: Java, JavaFX </li>
 
