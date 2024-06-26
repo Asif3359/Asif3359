@@ -9,7 +9,7 @@ A highly motivated and detail-oriented Computer Science student at Bangladesh Un
 ## 🌐Socials Links
 
 <p align="center">
-<a href="https://facebook.com/1nothing90">
+<a href="https://facebook.com/asif99o">
 <img width=150 hight=10 src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](" />
 </a>
 <a href="https://linkedin.com/in/asif-ahammed-622a85264/">
